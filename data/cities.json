@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Davao",
+      "country": "Philippines",
+      "emoji": "PH",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 7.222222,
+        "lng": 125.555555
+      },
+      "id": 555666777
+    },
+    {
+      "cityName": "Makati",
+      "country": "Philippines",
+      "emoji": "PH",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 14.556586,
+        "lng": 121.023415
+      },
+      "id": 888999000
     }
   ]
 }

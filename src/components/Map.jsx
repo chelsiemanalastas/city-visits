@@ -14,10 +14,7 @@ function Map() {
       onClick={() => {
         navigate("form");
       }}
-    >
-      <h1>Map</h1>
-      <h1>Position</h1>
-    </div>
+    ></div>
   );
 }
 
